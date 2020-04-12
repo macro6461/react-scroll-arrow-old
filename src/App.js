@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import ScrollArrow from './components/ScrollArrow';
+import ScrollTopArrow from './components/ScrollTopArrow';
 
 function App() {
   return (
     <div className="App">
-      <ScrollArrow/>
+      <ScrollTopArrow/>
     </div>
   );
 }

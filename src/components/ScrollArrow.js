@@ -3,7 +3,7 @@ import {FaArrowCircleUp} from 'react-icons/fa';
 import '../App.css';
 
 
-const ScrollArrow = () =>{
+const ScrollTopArrow = () =>{
 
   const [showScroll, setShowScroll] = useState(false)
 
@@ -26,4 +26,4 @@ const ScrollArrow = () =>{
   );
 }
 
-export default ScrollArrow;
+export default ScrollTopArrow;
